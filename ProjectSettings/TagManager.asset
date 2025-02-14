@@ -33,11 +33,11 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - static_pos
+  - face_uv
+  - face
+  - mask
+  - morph_draw
   m_SortingLayers:
   - name: Default
     uniqueID: 0
